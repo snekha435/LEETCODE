@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2129-capitalize-the-title](https://github.com/snekha435/LEETCODE/tree/master/2129-capitalize-the-title) |
+## Array
+|  |
+| ------- |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/snekha435/LEETCODE/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 <!---LeetCode Topics End-->
