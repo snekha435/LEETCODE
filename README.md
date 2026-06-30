@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/snekha435/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
+## String
+|  |
+| ------- |
+| [2129-capitalize-the-title](https://github.com/snekha435/LEETCODE/tree/master/2129-capitalize-the-title) |
 <!---LeetCode Topics End-->
