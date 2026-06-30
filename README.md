@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/snekha435/LEETCODE/tree/master/0728-self-dividing-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snekha435/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-number-of-common-factors](https://github.com/snekha435/LEETCODE/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/snekha435/LEETCODE/tree/master/2427-number-of-common-factors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snekha435/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
