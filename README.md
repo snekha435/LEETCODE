@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/snekha435/LEETCODE/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/snekha435/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/snekha435/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/snekha435/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/snekha435/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/snekha435/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/snekha435/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/snekha435/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Stack
 |  |
 | ------- |
