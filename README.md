@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/snekha435/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/snekha435/LEETCODE/tree/master/0724-find-pivot-index) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/snekha435/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/snekha435/LEETCODE/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 ## Prefix Sum
 |  |
