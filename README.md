@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/snekha435/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/snekha435/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/snekha435/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/snekha435/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/snekha435/LEETCODE/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/snekha435/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/snekha435/LEETCODE/tree/master/1732-find-the-highest-altitude) |
@@ -69,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/snekha435/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/snekha435/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
