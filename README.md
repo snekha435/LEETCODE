@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/snekha435/LEETCODE/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/snekha435/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/snekha435/LEETCODE/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
