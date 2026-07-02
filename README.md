@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/snekha435/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/snekha435/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/snekha435/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/snekha435/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/snekha435/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/snekha435/LEETCODE/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/snekha435/LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
