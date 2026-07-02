@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/snekha435/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/snekha435/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2427-number-of-common-factors](https://github.com/snekha435/LEETCODE/tree/master/2427-number-of-common-factors) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/snekha435/LEETCODE/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/snekha435/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/snekha435/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/snekha435/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/snekha435/LEETCODE/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/snekha435/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/snekha435/LEETCODE/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/snekha435/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/snekha435/LEETCODE/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 <!---LeetCode Topics End-->
