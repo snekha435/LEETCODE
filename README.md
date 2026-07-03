@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/snekha435/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2427-number-of-common-factors](https://github.com/snekha435/LEETCODE/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/snekha435/LEETCODE/tree/master/2843-count-symmetric-integers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/snekha435/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/snekha435/LEETCODE/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/snekha435/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/snekha435/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/snekha435/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/snekha435/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/snekha435/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/snekha435/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3701-compute-alternating-sum](https://github.com/snekha435/LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/snekha435/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## String
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/snekha435/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/snekha435/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/snekha435/LEETCODE/tree/master/2942-find-words-containing-character) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/snekha435/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/snekha435/LEETCODE/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/snekha435/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/snekha435/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -166,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/snekha435/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/snekha435/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
