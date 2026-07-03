@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/snekha435/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/snekha435/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2427-number-of-common-factors](https://github.com/snekha435/LEETCODE/tree/master/2427-number-of-common-factors) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/snekha435/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/snekha435/LEETCODE/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Enumeration
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/snekha435/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/snekha435/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/snekha435/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/snekha435/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/snekha435/LEETCODE/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3668-restore-finishing-order](https://github.com/snekha435/LEETCODE/tree/master/3668-restore-finishing-order) |
 ## Prefix Sum
