@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/snekha435/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/snekha435/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/snekha435/LEETCODE/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3668-restore-finishing-order](https://github.com/snekha435/LEETCODE/tree/master/3668-restore-finishing-order) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [3668-restore-finishing-order](https://github.com/snekha435/LEETCODE/tree/master/3668-restore-finishing-order) |
 <!---LeetCode Topics End-->
