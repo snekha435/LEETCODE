@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/snekha435/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/snekha435/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/snekha435/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/snekha435/LEETCODE/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/snekha435/LEETCODE/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/snekha435/LEETCODE/tree/master/2843-count-symmetric-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/snekha435/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/snekha435/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/snekha435/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/snekha435/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/snekha435/LEETCODE/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/snekha435/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3701-compute-alternating-sum](https://github.com/snekha435/LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/snekha435/LEETCODE/tree/master/3838-weighted-word-mapping) |
