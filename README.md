@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/snekha435/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/snekha435/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
+| [3838-weighted-word-mapping](https://github.com/snekha435/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/snekha435/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/snekha435/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2129-capitalize-the-title](https://github.com/snekha435/LEETCODE/tree/master/2129-capitalize-the-title) |
+| [3838-weighted-word-mapping](https://github.com/snekha435/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/snekha435/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/snekha435/LEETCODE/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3668-restore-finishing-order](https://github.com/snekha435/LEETCODE/tree/master/3668-restore-finishing-order) |
+| [3838-weighted-word-mapping](https://github.com/snekha435/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
