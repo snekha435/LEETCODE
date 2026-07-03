@@ -1,0 +1,20 @@
+class Solution {
+    public int minMoves(int[] nums) {
+        int max = nums[0];
+
+        // Find the maximum element
+        for (int num : nums) {
+            if (num > max) {
+                max = num;
+            }
+        }
+
+        // Count total moves
+        int moves = 0;
+        for (int num : nums) {
+            moves += (max - num);
+        }
+
+        return moves;
+    }
+}
