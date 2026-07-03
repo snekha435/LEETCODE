@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/snekha435/LEETCODE/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/snekha435/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/snekha435/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snekha435/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/snekha435/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/snekha435/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/snekha435/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/snekha435/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/snekha435/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/snekha435/LEETCODE/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/snekha435/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
