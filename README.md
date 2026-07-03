@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/snekha435/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/snekha435/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2427-number-of-common-factors](https://github.com/snekha435/LEETCODE/tree/master/2427-number-of-common-factors) |
+| [2843-count-symmetric-integers](https://github.com/snekha435/LEETCODE/tree/master/2843-count-symmetric-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/snekha435/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/snekha435/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/snekha435/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/snekha435/LEETCODE/tree/master/2427-number-of-common-factors) |
+| [2843-count-symmetric-integers](https://github.com/snekha435/LEETCODE/tree/master/2843-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
