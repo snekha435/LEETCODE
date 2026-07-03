@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/snekha435/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/snekha435/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/snekha435/LEETCODE/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3467-transform-array-by-parity](https://github.com/snekha435/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/snekha435/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/snekha435/LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/snekha435/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [3467-transform-array-by-parity](https://github.com/snekha435/LEETCODE/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/snekha435/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [3467-transform-array-by-parity](https://github.com/snekha435/LEETCODE/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
