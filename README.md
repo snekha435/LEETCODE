@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/snekha435/LEETCODE/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/snekha435/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/snekha435/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/snekha435/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/snekha435/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/snekha435/LEETCODE/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/snekha435/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/snekha435/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/snekha435/LEETCODE/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/snekha435/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/snekha435/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/snekha435/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/snekha435/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/snekha435/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
