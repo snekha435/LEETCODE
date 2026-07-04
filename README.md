@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/snekha435/LEETCODE/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/snekha435/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/snekha435/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/snekha435/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -164,11 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/snekha435/LEETCODE/tree/master/0242-valid-anagram) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/snekha435/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/snekha435/LEETCODE/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/snekha435/LEETCODE/tree/master/0242-valid-anagram) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/snekha435/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/snekha435/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/snekha435/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
