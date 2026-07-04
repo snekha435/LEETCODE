@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/snekha435/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/snekha435/LEETCODE/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/snekha435/LEETCODE/tree/master/2427-number-of-common-factors) |
+| [2652-sum-multiples](https://github.com/snekha435/LEETCODE/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/snekha435/LEETCODE/tree/master/2843-count-symmetric-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/snekha435/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/snekha435/LEETCODE/tree/master/3079-find-the-sum-of-encrypted-integers) |
