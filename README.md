@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/snekha435/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/snekha435/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/snekha435/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/snekha435/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/snekha435/LEETCODE/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/snekha435/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/snekha435/LEETCODE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/snekha435/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/snekha435/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/snekha435/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/snekha435/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/snekha435/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/snekha435/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/snekha435/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/snekha435/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Recursion
