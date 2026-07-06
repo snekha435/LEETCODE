@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/snekha435/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/snekha435/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/snekha435/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/snekha435/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/snekha435/LEETCODE/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/snekha435/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/snekha435/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/snekha435/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/snekha435/LEETCODE/tree/master/0242-valid-anagram) |
 | [0575-distribute-candies](https://github.com/snekha435/LEETCODE/tree/master/0575-distribute-candies) |
 | [0706-design-hashmap](https://github.com/snekha435/LEETCODE/tree/master/0706-design-hashmap) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/snekha435/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/snekha435/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0706-design-hashmap](https://github.com/snekha435/LEETCODE/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/snekha435/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Design
