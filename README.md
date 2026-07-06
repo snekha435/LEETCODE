@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/snekha435/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/snekha435/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/snekha435/LEETCODE/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sorting
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/snekha435/LEETCODE/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/snekha435/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
