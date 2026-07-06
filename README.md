@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/snekha435/LEETCODE/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/snekha435/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/snekha435/LEETCODE/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/snekha435/LEETCODE/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/snekha435/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/snekha435/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/snekha435/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/snekha435/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/snekha435/LEETCODE/tree/master/0242-valid-anagram) |
 | [0575-distribute-candies](https://github.com/snekha435/LEETCODE/tree/master/0575-distribute-candies) |
+| [0706-design-hashmap](https://github.com/snekha435/LEETCODE/tree/master/0706-design-hashmap) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/snekha435/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/snekha435/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/snekha435/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -213,5 +215,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/snekha435/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0706-design-hashmap](https://github.com/snekha435/LEETCODE/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/snekha435/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/snekha435/LEETCODE/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/snekha435/LEETCODE/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
