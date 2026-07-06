@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/snekha435/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/snekha435/LEETCODE/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/snekha435/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/snekha435/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/snekha435/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/snekha435/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/snekha435/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/snekha435/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/snekha435/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/snekha435/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/snekha435/LEETCODE/tree/master/0242-valid-anagram) |
 | [0575-distribute-candies](https://github.com/snekha435/LEETCODE/tree/master/0575-distribute-candies) |
