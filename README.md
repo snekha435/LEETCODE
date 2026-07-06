@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/snekha435/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/snekha435/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/snekha435/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0575-distribute-candies](https://github.com/snekha435/LEETCODE/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/snekha435/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/snekha435/LEETCODE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/snekha435/LEETCODE/tree/master/0724-find-pivot-index) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/snekha435/LEETCODE/tree/master/0242-valid-anagram) |
+| [0575-distribute-candies](https://github.com/snekha435/LEETCODE/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/snekha435/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/snekha435/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/snekha435/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
