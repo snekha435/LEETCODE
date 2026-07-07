@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/snekha435/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/snekha435/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/snekha435/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/snekha435/LEETCODE/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
@@ -236,10 +237,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/snekha435/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/snekha435/LEETCODE/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/snekha435/LEETCODE/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/snekha435/LEETCODE/tree/master/0706-design-hashmap) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/snekha435/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
