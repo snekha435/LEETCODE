@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/snekha435/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/snekha435/LEETCODE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/snekha435/LEETCODE/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/snekha435/LEETCODE/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/snekha435/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/snekha435/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snekha435/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/snekha435/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/snekha435/LEETCODE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/snekha435/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/snekha435/LEETCODE/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/snekha435/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
